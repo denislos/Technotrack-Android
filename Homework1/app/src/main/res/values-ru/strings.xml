@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="first_name">Ваше имя</string>
+    <string name="last_name">Ваша фамилия</string>
+    <string name="pick_date">Выберите дату</string>
+    <string name="Save">Сохранить</string>
+    <string name="Edit">Редактировать</string>
+</resources>
